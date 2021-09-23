@@ -1,4 +1,6 @@
-# MarsMoonTimeCalculator
+# MarsMoonTimeCalculator - Task 1
+
+![mars_moon_time_calculator](https://user-images.githubusercontent.com/19223435/134475763-ac6eee1a-49d5-4489-b727-cec6f36456a7.png)
 
 ## Description
 
